@@ -11,7 +11,7 @@ const langs = [
 ];
 const littleIntro = `
   Hi, welcome to my profile!
-  My name is Miguel, aka *Bluecrow da Beast*.
+  My name is Miguel, aka *Bluecrow da Beast* or just *Bluecrow*.
   I am a 15 years old teenager, who is trying to figure out how life flows.
   I had already made some projects and, if you want, you can check out here on my profile.
   I had have worked with: ${langs}
