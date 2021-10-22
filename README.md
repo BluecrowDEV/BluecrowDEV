@@ -41,6 +41,3 @@ introduceMyself('YES!')
 <a href="https://github.com/BluecrowDEV">
   <img align="center" src="" >
 </a>
-<a href="https://bluecrow.dev/">
-  <img align="center" src="" >
-</a>
