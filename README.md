@@ -33,11 +33,11 @@ introduceMyself('YES!')
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluecrowdev&show_icons=true&theme=tokyonight&bg_color=0D1B2A&title_color=3E75B0&border_color=1B263B&icon_color=174271&text_color=ffffff&layout=compact&hide_title=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.instagram.com/bluecrow.dev/">
-  <img align="center" src="" >
+  <img align="center" src="https://i.imgur.com/vsf8GSf.png" >
 </a>
 <a href="https://twitter.com/bluecrow_dev">
-  <img align="center" src="" >
+  <img align="center" src="https://i.imgur.com/yeGTUdQ.png" >
 </a>
 <a href="https://github.com/BluecrowDEV">
-  <img align="center" src="" >
+  <img align="center" src="https://i.imgur.com/MPsobif.png" >
 </a>
