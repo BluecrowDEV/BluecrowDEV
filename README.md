@@ -1,5 +1,7 @@
+# Little bit about me 👾
+
 ```javascript
-const whoAmI = 'Bluecrow';
+const whoAmI = 'Bluecrow 👾';
 const langs = [
   'HTML', 
   'CSS', 
@@ -29,8 +31,12 @@ function introduceMyself(isThatTrue) {
 introduceMyself('YES!')
 ```
 
+# Stats 📊
+
 ![Bluecrow's Stats](https://github-readme-stats.vercel.app/api?username=bluecrowdev&count_private=true&hide=issues&show_icons=true&theme=tokyonight&bg_color=0D1B2A&title_color=3E75B0&border_color=1B263B&icon_color=174271&text_color=ffffff&locale=en&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluecrowdev&show_icons=true&theme=tokyonight&bg_color=0D1B2A&title_color=3E75B0&border_color=1B263B&icon_color=174271&text_color=ffffff&layout=compact&hide_title=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
+# Useful links 👌
 
 <a href="https://www.instagram.com/bluecrow.dev/">
   <img align="center" src="https://i.imgur.com/vsf8GSf.png" >
@@ -42,6 +48,8 @@ introduceMyself('YES!')
   <img align="center" src="https://i.imgur.com/MPsobif.png" >
 </a>
 
+# Some works 👇
+
 <a href="https://github.com/BluecrowDEV/task-list">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluecrowdev&repo=task-  list&show_icons=true&theme=tokyonight&bg_color=0D1B2A&title_color=3E75B0&border_color=1B263B&icon_color=174271&text_color=ffffff&locale=en">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bluecrowdev&repo=task-list&show_icons=true&theme=tokyonight&bg_color=0D1B2A&title_color=3E75B0&border_color=1B263B&icon_color=174271&text_color=ffffff&locale=en">
 </a>
