@@ -1,4 +1,4 @@
-# Little bit about me 👾
+# A little bit about me 👾
 
 ```javascript
 const whoAmI = 'Bluecrow 👾';
