@@ -11,7 +11,7 @@
 -  ☎️ You can **get in touch** with me at any time
 
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/miguelrocha)
-[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](mmrocha2112@gmail.com)
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/miguelmartinsrocha?country.x=PT&locale.x=pt_PT)
 [![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/miguelrocha164)
 
 ## 🔧 Tech Stack
